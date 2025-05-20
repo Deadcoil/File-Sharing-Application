@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Uploaded files (like multer uploads)
+uploads/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Optional: ignore coverage/test/temp
+coverage/
+temp/
